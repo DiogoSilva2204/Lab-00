@@ -7,6 +7,8 @@
  */
 public enum Size
 {
+    
+    
  SMALL(32, 36, "Pequeno",'S'),
  MEDIUM(37, 44, "Médio",'M'),
  LARGE(45, 52, "Grande",'L');
